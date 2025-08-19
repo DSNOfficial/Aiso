@@ -1,0 +1,3 @@
+const ACCESS_TOKEN_KEY =process.env.TOKEN_ACCESS;
+const REFRESH_TOKEN_KEY =process.env.TOKEN_REFRESH;
+module.exports ={ACCESS_TOKEN_KEY,REFRESH_TOKEN_KEY}
